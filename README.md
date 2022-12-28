@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @miguelgisbert
-- 👀 I’m interested in Web Development (FontEnd, BackEnd, FullStack, PHP, HTML, CSS, Bootstrap, mysql...)
-- 🌱 I’m currently learning Advanced Frontend Development with CSS, Javascript and Bootstrap
-- 💞️ I’m looking to collaborate on partial time projects
-- 📫 How to reach me www.miguelgisbert.com
+- 👀 I’m interested in Fullstack Web Development (PHP, HTML, CSS, javascript, mysql, webflow, bootstrap...)
+- 🌱 I’m currently learning Advanced Frontend and Backend Development with Webflow
+- 💞️ I’m looking to collaborate on partial time Webflow projects
+- 📫 How to reach me www.miguelgisbert.dev
 
 <!---
 miguelgisbert/miguelgisbert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
