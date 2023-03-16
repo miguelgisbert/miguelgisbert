@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miguelgisbert
-- 👀 I’m interested in Fullstack Web Development (PHP, HTML, CSS, javascript, mysql, webflow, bootstrap...)
-- 🌱 I’m currently learning Advanced Frontend and Backend Development with Webflow
-- 💞️ I’m looking to collaborate on partial time Webflow projects
+- 👀 I’m interested in Fullstack Web Development (PHP, HTML, CSS, javascript, mysql, bootstrap, python...)
+- 🌱 I’m currently learning Python and Django
+- 💞️ I’m looking to collaborate on partial time web projects
 - 📫 How to reach me www.miguelgisbert.dev
 
 <!---
