@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miguelgisbert
-- 👀 I’m interested in Fullstack Web Development (Python/Django, HTML, CSS, javascript, bootstrap, php...)
-- 🌱 I’m currently learning Python and Django
+- 👀 I’m interested in Fullstack Web Development (React/Nodejs, javascript, React Native, Python/Django...)
+- 🌱 I’m currently learning React, Nodejs and React Native
 - 💞️ I’m looking to collaborate on partial time web projects
 - 📫 How to reach me miguelgisbert.dev
 
