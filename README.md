@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miguelgisbert
 - 👀 I’m interested in Frontend Development (React/Nodejs, javascript, Flutter, Python/Django...)
-- 🌱 I’m currently learning React and Flutter
-- 💞️ I’m looking to grow my Frontend Career in React or Flutter
+- 🌱 I’m currently learning React and Typescript
+- 💞️ I’m looking to grow my Frontend Career in React 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/miguel-gisbert-osuna/)
 
 <!---
