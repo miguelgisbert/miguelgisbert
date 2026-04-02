@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miguelgisbert
-- 👀 I’m interested in Frontend and Fullstack Development (React, React Native, Javascript, Typescript, Python...)
+- 👀 I’m interested in Frontend and Fullstack Development (React, React Native, Javascript, Typescript, Node, Python...)
 - 🌱 I’m currently growing as React and Typescript developer
-- 💞️ I’m looking to grow my Frontend Career in React 
+- 💞️ I’m looking to grow my Frontend of Fullstack Career in React / Node 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/miguel-gisbert-osuna/)
 
 <!---
