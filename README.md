@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @miguelgisbert
-- 👀 I’m interested in Frontend and Fullstack Development (React, React Native, Javascript, Typescript, Node, Python...)
-- 🌱 I’m currently growing as React and Typescript developer
-- 💞️ I’m looking to grow my Frontend of Fullstack Career in React / Node 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/miguel-gisbert-osuna/)
+👋 Hi, I'm Miguel Gisbert
 
-<!---
-miguelgisbert/miguelgisbert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Full-Stack Software Engineer · React, TypeScript, Node.js · Freelance (remote)**
+
+I build and scale web, mobile and AI products for companies in the **US, UK and Europe** —
+10+ years shipping production systems end to end, from architecture to CI/CD and monitoring.
+
+🚀 **Available for freelance projects** · CET timezone · full-day overlap with UK, 4h+ with US-East
+
+🛠 **Stack:** React · Next.js · TypeScript · Node.js · React Native · Python/Django ·
+PostgreSQL · Docker · CI/CD · LLM/RAG (OpenAI, Anthropic) · Vercel/AWS
+
+- 🌐 Portfolio & case studies: [miguelgisbert.dev](https://miguelgisbert.dev)
+- 📄 CV (PDF): [CVMiguelGisbert.pdf](https://miguelgisbert.dev/CVMiguelGisbert.pdf)
+- 💼 LinkedIn: [miguel-gisbert-osuna](https://www.linkedin.com/in/miguel-gisbert-osuna/)
+- ✉️ Email: [info@miguelgisbert.dev](mailto:info@miguelgisbert.dev)
